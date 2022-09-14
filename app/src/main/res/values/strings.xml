@@ -7,4 +7,9 @@
     <string name="movies">Movies</string>
     <string name="shows">Shows</string>
     <string name="back">Back</string>
+    <string name="login_title">Login\nTo your account</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="all_fields_are_required">All fields are required</string>
 </resources>

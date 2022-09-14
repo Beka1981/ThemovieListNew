@@ -12,5 +12,7 @@
     <color name="btn_gray">#3A3F47</color>
     <color name="yellow">#F4C434</color>
     <color name="red">#E23E31</color>
+    <color name="hint">#94969A</color>
+
 
 </resources>
